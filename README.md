@@ -14,4 +14,4 @@ Dustin Henderson
 Max Mayfield
 My Favorite Quote
 
-"Friends don't lie."<img width="1061" height="370" alt="image" src="https://github.com/user-attachments/assets/217de88a-2154-4d1b-b4f3-dc8403bd4fe8" />
+"Friends don't lie."
